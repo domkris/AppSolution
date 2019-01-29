@@ -1,0 +1,26 @@
+﻿<Window x:Class="MainApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:MainApp.UserControls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="978" ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow">
+
+    <Grid>
+        <TabControl TabStripPlacement="Left">
+            
+            <TabItem Header="Generate models">
+                <uc:GenerateModelsUserControl />
+            </TabItem>
+            <TabItem Header="Administrate user rights">
+                
+
+            </TabItem>
+            <TabItem Header="Data Encryption">
+                <uc:DataEncrpytion/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

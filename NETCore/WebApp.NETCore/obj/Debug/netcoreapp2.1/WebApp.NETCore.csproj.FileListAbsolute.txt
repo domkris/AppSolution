@@ -1,0 +1,14 @@
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\bin\Debug\netcoreapp2.1\WebApp.NETCore.deps.json
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\bin\Debug\netcoreapp2.1\WebApp.NETCore.runtimeconfig.json
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\bin\Debug\netcoreapp2.1\WebApp.NETCore.runtimeconfig.dev.json
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\bin\Debug\netcoreapp2.1\WebApp.NETCore.dll
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\bin\Debug\netcoreapp2.1\WebApp.NETCore.pdb
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.csprojAssemblyReference.cache
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.csproj.CoreCompileInputs.cache
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.RazorAssemblyInfo.cache
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.RazorAssemblyInfo.cs
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.AssemblyInfoInputs.cache
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.AssemblyInfo.cs
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.RazorTargetAssemblyInfo.cache
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.dll
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.pdb
