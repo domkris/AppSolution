@@ -1,7 +1,7 @@
 C:\Workspaces\TFS\AppSolution\AppSolution\WCF\MessageService\bin\MessageService.dll.config
 C:\Workspaces\TFS\AppSolution\AppSolution\WCF\MessageService\bin\MessageService.dll
 C:\Workspaces\TFS\AppSolution\AppSolution\WCF\MessageService\bin\MessageService.pdb
-C:\Workspaces\TFS\AppSolution\AppSolution\WCF\MessageService\obj\Debug\MessageService.csprojAssemblyReference.cache
 C:\Workspaces\TFS\AppSolution\AppSolution\WCF\MessageService\obj\Debug\MessageService.csproj.CoreCompileInputs.cache
 C:\Workspaces\TFS\AppSolution\AppSolution\WCF\MessageService\obj\Debug\MessageService.dll
 C:\Workspaces\TFS\AppSolution\AppSolution\WCF\MessageService\obj\Debug\MessageService.pdb
+C:\Workspaces\TFS\AppSolution\AppSolution\WCF\MessageService\obj\Debug\MessageService.csprojAssemblyReference.cache

@@ -1,6 +1,7 @@
 ﻿using Microsoft.SqlServer.Management.Smo;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 
 namespace MainApp.Helpers
@@ -32,6 +33,21 @@ namespace MainApp.Helpers
                 tables.Add(table);
             }
             return tables;
+        }
+        #endregion
+
+        #region Table
+        public static Table GetTable(string serverName, string databaseName, string tableName)
+        {
+            Server server = new Server(serverName);
+            Database database = server.Databases[databaseName];
+            Table tableToShow = new Table();
+            foreach (Table table in database.Tables)
+            {
+                if (table.Name == tableName)
+                    tableToShow = table;
+            }
+            return tableToShow;
         }
         #endregion
 
@@ -68,7 +84,7 @@ namespace MainApp.Helpers
                     columns.Add(column);
                 }
             }
-
+    
             if (view != null)
             {
                 foreach (Column column in view.Columns)

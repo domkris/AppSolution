@@ -38,3 +38,17 @@ C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\bin\Debug\EntityFramework.
 C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\bin\Debug\EntityFramework.SqlServer.xml
 C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\DataEncrpytion.g.cs
 C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\DataEncrpytion.baml
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\bin\Debug\ControlzEx.dll
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\bin\Debug\MahApps.Metro.dll
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\bin\Debug\ControlzEx.pdb
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\bin\Debug\MahApps.Metro.pdb
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\bin\Debug\MahApps.Metro.xml
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\AdministrateUserControls\ApplicationsUserControl.g.cs
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\AdministrateUserControls\AuthorizationsUserControl.g.cs
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\AdministrateUserControls\RolesUserControl.g.cs
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\AdministrateUserControls\UsersUserControl.g.cs
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\AdministrateUserControls\ApplicationsUserControl.baml
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\AdministrateUserControls\AuthorizationsUserControl.baml
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\AdministrateUserControls\RolesUserControl.baml
+C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\obj\Debug\UserControls\AdministrateUserControls\UsersUserControl.baml

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\App.xaml
-5-55880224
+91223989504
 
-12-1990234211
-22-1436178305
-MainWindow.xaml;Resources\GlobalStyle.xaml;UserControls\AdministrateUserRightsUserControl.xaml;UserControls\DataEncrpytion.xaml;UserControls\GenerateModelsUserControl.xaml;
+20-1870692611
+26-1303380421
+MainWindow.xaml;Resources\GlobalStyle.xaml;UserControls\AdministrateUserControls\ApplicationsUserControl.xaml;UserControls\AdministrateUserControls\AuthorizationsUserControl.xaml;UserControls\AdministrateUserControls\RolesUserControl.xaml;UserControls\AdministrateUserControls\UsersUserControl.xaml;UserControls\AdministrateUserRightsUserControl.xaml;UserControls\DataEncrpytion.xaml;UserControls\GenerateModelsUserControl.xaml;
 
-False
+True
 

@@ -8,5 +8,5 @@ C:\Workspaces\TFS\AppSolution\AppSolution\Class Libraries\Models\bin\Debug\Entit
 C:\Workspaces\TFS\AppSolution\AppSolution\Class Libraries\Models\bin\Debug\EntityFramework.SqlServer.dll
 C:\Workspaces\TFS\AppSolution\AppSolution\Class Libraries\Models\bin\Debug\EntityFramework.xml
 C:\Workspaces\TFS\AppSolution\AppSolution\Class Libraries\Models\bin\Debug\EntityFramework.SqlServer.xml
-C:\Workspaces\TFS\AppSolution\AppSolution\Class Libraries\Models\obj\Debug\Models.csprojAssemblyReference.cache
 C:\Workspaces\TFS\AppSolution\AppSolution\Class Libraries\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Workspaces\TFS\AppSolution\AppSolution\Class Libraries\Models\obj\Debug\Models.csprojAssemblyReference.cache

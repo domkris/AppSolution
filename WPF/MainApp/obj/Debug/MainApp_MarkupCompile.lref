@@ -5,4 +5,8 @@ FC:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\Resources\GlobalStyle.xam
 FC:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\UserControls\AdministrateUserRightsUserControl.xaml;;
 FC:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\UserControls\DataEncrpytion.xaml;;
 FC:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\UserControls\GenerateModelsUserControl.xaml;;
+FC:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\UserControls\AdministrateUserControls\ApplicationsUserControl.xaml;;
+FC:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\UserControls\AdministrateUserControls\AuthorizationsUserControl.xaml;;
+FC:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\UserControls\AdministrateUserControls\RolesUserControl.xaml;;
+FC:\Workspaces\TFS\AppSolution\AppSolution\WPF\MainApp\UserControls\AdministrateUserControls\UsersUserControl.xaml;;
 
