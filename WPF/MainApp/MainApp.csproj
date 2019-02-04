@@ -84,6 +84,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AES\SimpleAES.cs" />
     <Compile Include="Helpers\SqlServerHelper.cs" />
     <Compile Include="Models\Abstract\BaseExportClass.cs" />
     <Compile Include="Models\TableForExport.cs" />

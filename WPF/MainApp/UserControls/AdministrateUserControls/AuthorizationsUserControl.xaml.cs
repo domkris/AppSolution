@@ -17,6 +17,7 @@ namespace MainApp.UserControls.AdministrateUserControls
         public AuthorizationsUserControl()
         {
             InitializeComponent();
+            stackPanelNew.Visibility = Visibility.Hidden;
             txtBoxName.IsEnabled = false;
             string category = selectedCategory.Text;
             FillData();
@@ -115,6 +116,8 @@ namespace MainApp.UserControls.AdministrateUserControls
 
         private void BtnCreate_Click(object sender, RoutedEventArgs e)
         {
+            stackPanelNew.Visibility = Visibility.Hidden;
+            txtBlockCreateNew.Text = "+";
             if (txtBoxNewAuthorization.Text != "")
             {
                 string storedProcedure = "crud_InsertApplications";
@@ -138,6 +141,24 @@ namespace MainApp.UserControls.AdministrateUserControls
             {
                 MessageBox.Show("Title field is empty!");
             }
+        }
+        private void BtnCreateNew_Click(object sender, RoutedEventArgs e)
+        {
+            if (txtBlockCreateNew.Text == "-")
+            {
+                stackPanelNew.Visibility = Visibility.Hidden;
+                txtBlockCreateNew.Text = "+";
+            }
+            else
+            {
+                stackPanelNew.Visibility = Visibility.Visible;
+                txtBlockCreateNew.Text = "-";
+            }
+        }
+        private void BtnCancel_Click(object sender, RoutedEventArgs e)
+        {
+            stackPanelNew.Visibility = Visibility.Hidden;
+            txtBlockCreateNew.Text = "+";
         }
     }
 }

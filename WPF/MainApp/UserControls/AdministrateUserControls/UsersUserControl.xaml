@@ -12,13 +12,26 @@
                        Margin="80,30,0,10"
                        FontWeight="Bold"
                        Text="Users"/>
-
-            <ComboBox  Name="comboTitles"
-                       Width="300"
-                       Height="20"
-                       Margin="-30,5,0,0" 
-                       SelectionChanged="ComboTitles_SelectionChanged"
-                       DisplayMemberPath = "Value"/>
+            <Button x:Name="btnCreateNew"
+                    Width="30"
+                    Height="30"
+                    Margin="240,-55,0,0" Click="BtnCreateNew_Click">
+                <TextBlock x:Name="txtBlockCreateNew"
+                           Text="+"
+                           VerticalAlignment="Center"
+                           FontSize="20"/>
+            </Button>
+            <TextBox x:Name="txtAuto"
+                     TextWrapping="NoWrap"
+                     Width="300"
+                     Margin="-30,10,0,0"/>
+            <ListBox x:Name="lbSuggestions"
+                     SelectionChanged="LbSuggestions_SelectionChanged"
+                     Visibility="Collapsed"
+                     DisplayMemberPath = "Value"
+                     Width="300"
+                     Margin="-30,10,0,0"/>
+            
             <StackPanel Margin="60,0,10,10">
                 <TextBlock Text="Username: "
                        Margin="40,30,0,0"/>
@@ -56,7 +69,7 @@
                         Click="BtnDelete_Click"/>
                 </StackPanel>
             </StackPanel>
-            <StackPanel>
+            <StackPanel x:Name="stackPanelNew">
                 <TextBlock Text="Create New User"
                            Margin="85,30,0,10"
                            FontWeight="Bold"/>
@@ -77,6 +90,11 @@
                         Width="50"
                         Height="20"
                         Margin="220,20,0,0" Click="BtnCreate_Click"/>
+                <Button x:Name="btnCancel"
+                        Content="Cancel"
+                        Width="50"
+                        Height="20"
+                        Margin="80,-25,0,0" Click="BtnCancel_Click" />
             </StackPanel>
         </StackPanel>
     </Grid>

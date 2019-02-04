@@ -2,6 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 using System;
+using MainApp.AES;
 
 namespace MainApp.UserControls
 {
@@ -10,35 +11,25 @@ namespace MainApp.UserControls
     /// </summary>
     public partial class DataEncrpytion : UserControl
     {
-        AesCryptoServiceProvider aesCSP = new AesCryptoServiceProvider();
-        ICryptoTransform cryptoTransform;
+        //AesCryptoServiceProvider aesCSP = new AesCryptoServiceProvider();
+        //ICryptoTransform cryptoTransform;
+
+        SimpleAES AES; 
 
         public DataEncrpytion()
         {
             InitializeComponent();
+            AES = new SimpleAES();
         }
 
         private void BtnEncrypt_Click(object sender, System.Windows.RoutedEventArgs e)
         {
-            cryptoTransform = aesCSP.CreateEncryptor();
-            byte[] bytes = Encoding.Unicode.GetBytes(txtBoxValueEncrypt.Text);
-            byte[] encryptedBytes = cryptoTransform.TransformFinalBlock(bytes,0, bytes.Length);
-
-            txtBoxResultEncrpyt.Text = BitConverter.ToString(encryptedBytes).Replace("-","");
+            txtBoxResultEncrpyt.Text = AES.Encrypt(txtBoxValueEncrypt.Text);
         }
 
         private void BtnDecrypt_Click(object sender, System.Windows.RoutedEventArgs e)
         {
-            cryptoTransform = aesCSP.CreateDecryptor();
-            byte[] raw = new byte[txtBoxValueDecrypt.Text.Length / 2];
-
-            for (var i = 0; i < raw.Length; i++)
-            {
-                raw[i] = Convert.ToByte(txtBoxValueDecrypt.Text.Substring(i * 2, 2), 16);
-            }
-            byte[] decryptedBytes = cryptoTransform.TransformFinalBlock(raw, 0, raw.Length);
-
-            txtBoxResultDecrpyt.Text = Encoding.Unicode.GetString(decryptedBytes);
+            txtBoxResultDecrpyt.Text = AES.Decrpyt(txtBoxValueDecrypt.Text);
         }
     }
 }
