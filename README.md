@@ -23,6 +23,7 @@ Contains models/classes generated in WPF application from tables in DbSolution
 <b>WPF/MainApp</b>:</br>
 WPF Administration app made for education purposes.</br>
 DB: DbSolution repository</br>
+</br>
 <ul>
   <li>Generate models: used to create cs files from tables for Web application.</li>
   <li>Administrate user rights: Used to edit, delete, create users and their permissions and roles.</li>
@@ -30,6 +31,22 @@ DB: DbSolution repository</br>
 </ul>
 </br>
 </br>
+<table>
+  <thead>
+    <tr>
+      <th>Generate models</th>
+      <th>Administrate user rights</th>
+      <th>Data encryption</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>January</td>
+      <td>$100</td>
+      <td>$100</td>
+    </tr>
+  </tbody>
+</table>
 
 ![promisechains](https://github.com/domkris/files/blob/master/generate_models_2.png?raw=true)
 ![promisechains](https://github.com/domkris/files/blob/master/administrate_user_rights_7.png?raw=true)
