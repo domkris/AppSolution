@@ -22,11 +22,12 @@ Contains models/classes generated in WPF application from tables in DbSolution
 <hr>
 <b>WPF/MainApp</b>:</br>
 WPF Administration app made for education purposes.</br>
-Used to edit, delete, create users and their permissions.</br>
-Generate models is used to create cs files from tables for Web application.
+Generate models: used to create cs files from tables for Web application.
+Administrate user rights: Used to edit, delete, create users and their permissions and roles.</br>
+Data encryption: used to encrypt user passwords. </br>
 DB: DbSolution repository 
 </br>
-
+</br>
 ![promisechains](https://github.com/domkris/files/blob/master/generate_models_2.png?raw=true)
 ![promisechains](https://github.com/domkris/files/blob/master/administrate_user_rights_7.png?raw=true)
 ![promisechains](https://github.com/domkris/files/blob/master/data_encryption_2.png?raw=true)
