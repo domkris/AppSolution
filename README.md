@@ -21,7 +21,7 @@ not implemented...
 Contains models/classes generated in WPF application from tables in DbSolution
 <hr>
 <b>WPF/MainApp</b>:</br>
-WPF Administration app made for education purposes.</br>
+Desktop WPF Administration app made for education purposes.</br>
 DB: DbSolution repository</br>
 </br>
 <ul>
