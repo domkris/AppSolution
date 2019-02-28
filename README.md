@@ -13,4 +13,7 @@ ReactJS, React-Bootstrap, JWT validation( localstorage token )
 
 ![promisechains](https://github.com/domkris/files/blob/master/web_api_short.png?raw=true)
 </br>
+</br>
+<b>WCF/MessageService</b>
+not implemented...
 
