@@ -2,7 +2,7 @@
 
 <b>NETCore/WebApp.NETCore</b>:
 </br>
-Login concept used for education.
+Web login concept made for educational purposes.
 ReactJS, JWT validation
 
 
