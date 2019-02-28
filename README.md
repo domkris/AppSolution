@@ -31,24 +31,6 @@ DB: DbSolution repository</br>
 </ul>
 </br>
 </br>
-<table>
-  <thead>
-    <tr>
-      <th>Generate models</th>
-      <th>Administrate user rights</th>
-      <th>Data encryption</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        ![promisechains](https://github.com/domkris/files/blob/master/generate_models_2.png?raw=true)
-      </td>
-      <td>$100</td>
-      <td>$100</td>
-    </tr>
-  </tbody>
-</table>
 
 ![promisechains](https://github.com/domkris/files/blob/master/generate_models_2.png?raw=true)
 ![promisechains](https://github.com/domkris/files/blob/master/administrate_user_rights_7.png?raw=true)
