@@ -3,11 +3,11 @@
 <hr>
 <b>NETCore/WebApp.NETCore</b>:</br>
 .NET Core 2.1
-Backend and Frontend Web login and JWT authentication made for education purposes.</br>
+Backend and Frontend Web login and JWT authentication app made for education purposes.</br>
 DB: DbSolution repository
 </br></br>
 <b>NETCore/WebApp.NETCore/wwwroot</b>:</br>
-Frontend part of Web login concept made for educational purposes.</br>
+Frontend part of Web login app concept made for educational purposes.</br>
 ReactJS, React-Bootstrap, JWT validation( localstorage token )
 </br></br>
 
