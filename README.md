@@ -16,15 +16,7 @@ ReactJS, React-Bootstrap, JWT validation( localstorage token )
 
 <b>WCF/MessageService</b>:</br>
 not implemented...
+<hr>
+<b>Class Libraries/Models</b>:</br>
 
-<table>
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-</table>
 
