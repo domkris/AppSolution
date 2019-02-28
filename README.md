@@ -8,7 +8,7 @@
 <b>NETCore/WebApp.NETCore/wwwroot</b>:
 </br>
 Frontend part of Web login concept made for educational purposes.</br>
-ReactJS, React-Bootstrap, JWT validation
+ReactJS, React-Bootstrap, JWT validation( localstorage token )
 
 
 ![promisechains](https://github.com/domkris/files/blob/master/web_api_short.png?raw=true)
