@@ -21,7 +21,10 @@ not implemented...
 Contains models/classes generated in WPF application from tables in DbSolution
 <hr>
 <b>WPF/MainApp</b>:</br>
-
+WPF Administration app made for education purposes.</br>
+Used to edit, delete, create users and their permissions.</br>
+Generate models is used to create cs files from tables for Web application.
+DB: DbSolution repository 
 </br>
 
 ![promisechains](https://github.com/domkris/files/blob/master/generate_models_2.png?raw=true)
