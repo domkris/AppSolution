@@ -1,5 +1,7 @@
 # AppSolution
 
+<b>NETCore/WebApp.NETCore</b>:
+</br>
 Login concept used for education.
 ReactJS, JWT validation
 
