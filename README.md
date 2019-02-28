@@ -27,7 +27,7 @@ DB: DbSolution repository</br>
 <ul>
   <li>Generate models: used to create cs files from tables for Web application.</li>
   <li>Administrate user rights: Used to edit, delete, create users and their permissions and roles.</li>
-  <li>Data encryption: used to encrypt user passwords. </li>
+  <li>Data encryption: used to encrypt user passwords. (AES 256 CBC) </li>
 </ul>
 </br>
 </br>
