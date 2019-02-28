@@ -18,5 +18,6 @@ ReactJS, React-Bootstrap, JWT validation( localstorage token )
 not implemented...
 <hr>
 <b>Class Libraries/Models</b>:</br>
-
+Contains models/classes generated in WPF application from tables in DbSolution
+<hr>
 
