@@ -24,3 +24,4 @@ Contains models/classes generated in WPF application from tables in DbSolution
 
 ![promisechains](https://github.com/domkris/files/blob/master/generate_models_2.png?raw=true)
 ![promisechains](https://github.com/domkris/files/blob/master/administrate_user_rights_7.png?raw=true)
+![promisechains](https://github.com/domkris/files/blob/master/data_encryption_2.png?raw=true)
