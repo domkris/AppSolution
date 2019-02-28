@@ -42,7 +42,6 @@ DB: DbSolution repository</br>
   <tbody>
     <tr>
       <td>
-        
         ![promisechains](https://github.com/domkris/files/blob/master/generate_models_2.png?raw=true)
       </td>
       <td>$100</td>
