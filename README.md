@@ -9,12 +9,11 @@ DB: DbSolution repository
 <b>NETCore/WebApp.NETCore/wwwroot</b>:</br>
 Frontend part of Web login concept made for educational purposes.</br>
 ReactJS, React-Bootstrap, JWT validation( localstorage token )
-</br>
+</br></br>
 
 ![promisechains](https://github.com/domkris/files/blob/master/web_api_short.png?raw=true)
 <hr>
-</br>
-</br>
+
 <b>WCF/MessageService</b>:</br>
 not implemented...
 
