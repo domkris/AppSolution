@@ -1,15 +1,14 @@
 namespace Models.Logging
 {
-	using System;
-	using System.Collections.Generic;
+    using System;
 
-	public partial class Log
+    public partial class Log
 	{
-		public Int32 LogID { get; set; }
-		public String ApplicationName { get; set; }
-		public String Message { get; set; }
-		public String MessageType { get; set; }
-		public String UserCreated { get; set; }
+		public int LogID { get; set; }
+		public string ApplicationName { get; set; }
+		public string Message { get; set; }
+		public string MessageType { get; set; }
+		public string UserCreated { get; set; }
 		public DateTime LogDateTimeStamp { get; set; }
 	}
 }

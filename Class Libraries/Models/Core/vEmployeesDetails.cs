@@ -1,21 +1,20 @@
 namespace Models.Core
 {
-	using System;
-	using System.Collections.Generic;
+    using System;
 
-	public partial class vEmployeesDetails
+    public partial class vEmployeesDetails
 	{
-		public Int32 EmployeeID { get; set; }
-		public String Username { get; set; }
-		public String FirstName { get; set; }
-		public String NationalIDNumber { get; set; }
-		public String NationalIDTypeTitle { get; set; }
-		public String GenderTitle { get; set; }
-		public String BirthDate { get; set; }
-		public String Address { get; set; }
-		public String PlaceTitle { get; set; }
-		public String CountryTitle { get; set; }
-		public String UserCreated { get; set; }
+		public int EmployeeID { get; set; }
+		public string Username { get; set; }
+		public string FirstName { get; set; }
+		public string NationalIDNumber { get; set; }
+		public string NationalIDTypeTitle { get; set; }
+		public string GenderTitle { get; set; }
+		public string BirthDate { get; set; }
+		public string Address { get; set; }
+		public string PlaceTitle { get; set; }
+		public string CountryTitle { get; set; }
+		public string UserCreated { get; set; }
 		public DateTime DateCreated { get; set; }
 	}
 }

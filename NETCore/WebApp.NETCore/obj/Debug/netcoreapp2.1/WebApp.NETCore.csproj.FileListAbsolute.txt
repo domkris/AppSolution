@@ -12,3 +12,7 @@ C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netco
 C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.dll
 C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.pdb
 C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.csprojAssemblyReference.cache
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\bin\Debug\netcoreapp2.1\Models.dll
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\bin\Debug\netcoreapp2.1\Models.dll.config
+C:\Workspaces\TFS\AppSolution\AppSolution\NETCore\WebApp.NETCore\obj\Debug\netcoreapp2.1\WebApp.NETCore.csproj.CopyComplete

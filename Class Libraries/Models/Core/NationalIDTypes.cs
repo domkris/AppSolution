@@ -1,13 +1,12 @@
 namespace Models.Core
 {
-	using System;
-	using System.Collections.Generic;
+    using System;
 
-	public partial class NationalIDTypes
+    public partial class NationalIDTypes
 	{
-		public Int32 NationalIDTypeID { get; set; }
-		public String NationalIDTypeTitle { get; set; }
-		public String UserCreated { get; set; }
+		public int NationalIDTypeID { get; set; }
+		public string NationalIDTypeTitle { get; set; }
+		public string UserCreated { get; set; }
 		public DateTime DateCreated { get; set; }
 	}
 }

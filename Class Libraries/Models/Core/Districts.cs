@@ -1,15 +1,14 @@
 namespace Models.Core
 {
-	using System;
-	using System.Collections.Generic;
+    using System;
 
-	public partial class Districts
+    public partial class Districts
 	{
-		public Int32 DistrictID { get; set; }
-		public String DistrictTitle { get; set; }
-		public Int32 RegionID { get; set; }
-		public String DistrictType { get; set; }
-		public String UserCreated { get; set; }
+		public int DistrictID { get; set; }
+		public string DistrictTitle { get; set; }
+		public int RegionID { get; set; }
+		public string DistrictType { get; set; }
+		public string UserCreated { get; set; }
 		public DateTime DateCreated { get; set; }
 	}
 }

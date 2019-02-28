@@ -1,14 +1,13 @@
 namespace Models.Core
 {
-	using System;
-	using System.Collections.Generic;
+    using System;
 
-	public partial class Regions
+    public partial class Regions
 	{
-		public Int32 RegionID { get; set; }
-		public String RegionTitle { get; set; }
-		public Int32 CountryID { get; set; }
-		public String UserCreated { get; set; }
+		public int RegionID { get; set; }
+		public string RegionTitle { get; set; }
+		public int CountryID { get; set; }
+		public string UserCreated { get; set; }
 		public DateTime DateCreated { get; set; }
 	}
 }

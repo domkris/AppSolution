@@ -54,17 +54,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Administration\Applications.cs" />
-    <Compile Include="Administration\Applications_History.cs" />
-    <Compile Include="Administration\ApplicationUsers.cs" />
-    <Compile Include="Administration\Authorizations.cs" />
-    <Compile Include="Administration\Authorizations_History.cs" />
+    <Compile Include="Administration\Application.cs" />
+    <Compile Include="Administration\Application_History.cs" />
+    <Compile Include="Administration\ApplicationUser.cs" />
+    <Compile Include="Administration\Authorization.cs" />
+    <Compile Include="Administration\Authorization_History.cs" />
     <Compile Include="Administration\Calendar.cs" />
-    <Compile Include="Administration\RoleAuthorizations.cs" />
-    <Compile Include="Administration\Roles.cs" />
-    <Compile Include="Administration\Roles_History.cs" />
-    <Compile Include="Administration\Users.cs" />
-    <Compile Include="Administration\Users_History.cs" />
+    <Compile Include="Administration\RoleAuthorization.cs" />
+    <Compile Include="Administration\Role.cs" />
+    <Compile Include="Administration\Role_History.cs" />
+    <Compile Include="Administration\User.cs" />
+    <Compile Include="Administration\User_History.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Core\Countries.cs" />
     <Compile Include="Core\Districts.cs" />
