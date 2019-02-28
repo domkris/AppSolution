@@ -41,7 +41,10 @@ DB: DbSolution repository</br>
   </thead>
   <tbody>
     <tr>
-      <td>January</td>
+      <td>
+        
+        ![promisechains](https://github.com/domkris/files/blob/master/generate_models_2.png?raw=true)
+      </td>
       <td>$100</td>
       <td>$100</td>
     </tr>
