@@ -1,6 +1,6 @@
 # AppSolution
 
-<b>NETCore/WebApp.NETCore</b>:</br>
+<b>NETCore/WebApp.NETCore</b>:<hr></br>
  .NET Core 2.1
  Backend and Frontend Web login and JWT authentication made for education purposes.</br>
  DB: DbSolution repository
