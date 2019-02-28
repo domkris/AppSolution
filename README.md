@@ -3,8 +3,8 @@
 <b>NETCore/WebApp.NETCore</b>:</br></br>
  .NET Core 2.1
  Backend Web login and authentication made for education purposes.</br>
- DB: DBSoulution repository
-</br>
+ DB: DBSolution repository
+</br></br>
 <b>NETCore/WebApp.NETCore/wwwroot</b>:
 </br>
 Frontend Web login concept made for educational purposes.</br>
